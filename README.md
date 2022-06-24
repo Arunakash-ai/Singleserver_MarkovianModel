@@ -1,5 +1,5 @@
 # EXP N0-7 
-# Single seriver infinite capacity - Markovian Model
+# Single server infinite capacity - Markovian Model
 
 # Aim : 
 To find 
